@@ -1,4 +1,4 @@
-# Data-camp-Data-Analyst-with-Python
+# Datacamp-Data Analyst with Python
 This repository is where I kept all documents related to DataCamp Python Data Analysis Track
 ## About the course:
 Gain the career-building Python skills you need to succeed as a data analyst. No coding experience required.
