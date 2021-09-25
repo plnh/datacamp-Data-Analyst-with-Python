@@ -1,4 +1,4 @@
-Course Description
+# Course Description
 Seaborn is a powerful Python library that makes it easy to create informative and attractive visualizations. 
 This course provides an introduction to Seaborn and teaches you how to visualize your data using plots such as scatter plots, box plots, and bar plots. 
 You’ll do this while exploring survey responses about student hobbies and the factors that are associated with academic success. 
